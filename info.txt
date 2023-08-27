@@ -1,1 +1,6 @@
 git init
+git add.
+git add . - add all the files from working directory to staging
+git commit -m "hello" staging to local repo
+git branch -M - for creating a main branch
+git remote add origin https://github.com/nikhil64sd/tixdo5.git
